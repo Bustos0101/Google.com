@@ -199,6 +199,7 @@ li{
 @media(max-width: 420px){
   .search-bar{
     width: 300px;
+    margin-left: 18px;
   }
   ul.footer-left{
     display: none;
@@ -218,7 +219,7 @@ li{
     display: block;
   }
   #profile{
-      height: 40px;
+      height: 44px;
       width: 55px;
       left: -15px;
   }
@@ -256,6 +257,14 @@ li{
   }
   .left-text1{
     display: none;
+  }
+  .search-icon {
+    left: 39px;
+  }
+  .buttons-set-2{
+    position: relative;
+    left: 17.5px;
+}
   }
 }
 /* small-moblie-version */
