@@ -304,5 +304,7 @@ li{
   ul.footer-center{
     display: none;
   }
-  
+  body{
+  Position: fixed;
+}
 }
